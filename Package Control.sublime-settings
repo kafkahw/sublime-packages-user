@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Djaneiro",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"HTML Boilerplate",
+		"LESS",
+		"Markdown Preview",
+		"Mocha Snippets",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Sass",
+		"SublimeERB",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SummitLinter",
+		"TrailingSpaces"
+	],
+	"repositories":
+	[
+		"https://github.com/jisaacks/GitGutter"
+	]
+}
